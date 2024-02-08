@@ -1,3 +1,3 @@
 # radicle-github-actions-demo
 
-Hello
+Hello actions!
